@@ -1,0 +1,7 @@
+Explicaciones de de los siguientes conceptos
+
+-Variable: Se pueden asignar datos a una variable en específico, pero las variables se podran modificar.
+-Strings: Los Strings estan definidos por comillas "", dentro del Strings se podrá guardar cualquier valor, estre ellos palabras, números entre otros.
+-Funciones: Diseñadas para realizar acciones y poder recibir un valor o una respuesta tras realizar la funcion.
+-Declaraciones: Relacionados con una condición (si), determina si una funcion cumple con lo que se le asigna arroja una respuesta según la condicion
+-Valores booleanos: Solamente puede tener dos valores, verdadero o falso, según lo que se asigne arrojará un valor o el otro
